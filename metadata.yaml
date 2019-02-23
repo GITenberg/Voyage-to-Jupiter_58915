@@ -1,0 +1,23 @@
+_repo: Voyage-to-Jupiter_58915
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Samz, Jane
+    gutenberg_agent_id: '50208'
+    url: http://www.gutenberg.org/2009/agents/50208
+  - agent_name: Morrison, David
+    gutenberg_agent_id: '50207'
+    url: http://www.gutenberg.org/2009/agents/50207
+description: ''
+gutenberg_issued: '2019-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58915'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Voyage to Jupiter
+url: http://www.gutenberg.org/ebooks/58915
